@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "hey javieeeeeeeeee"  
+=======
+"Hola" 
+>>>>>>> 7ae7d04072880737be43aaea12ab1f1d92d8bc81
